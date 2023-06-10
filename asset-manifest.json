@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//sivistinsam.github.io/dropdown/static/css/main.031a0ed6.css",
+    "main.js": "/http//sivistinsam.github.io/dropdown/static/js/main.e4095335.js",
+    "index.html": "/http//sivistinsam.github.io/dropdown/index.html",
+    "main.031a0ed6.css.map": "/http//sivistinsam.github.io/dropdown/static/css/main.031a0ed6.css.map",
+    "main.e4095335.js.map": "/http//sivistinsam.github.io/dropdown/static/js/main.e4095335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.031a0ed6.css",
+    "static/js/main.e4095335.js"
+  ]
+}
